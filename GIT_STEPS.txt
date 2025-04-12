@@ -25,3 +25,7 @@ git commit -m "Added hello.py"
 Step 5
 
 git Push
+
+step 6
+
+exit
